@@ -1,0 +1,5 @@
+mesa
+vulkan-icd-loader
+vulkan-tools
+ffmpeg
+imagemagick

@@ -1,0 +1,16 @@
+hyprland
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+waybar
+wofi
+kitty
+mako
+wl-clipboard
+cliphist
+grim
+slurp
+hyprpaper
+polkit-gnome
+sddm
+qt5-wayland
+qt6-wayland

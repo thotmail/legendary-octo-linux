@@ -1,0 +1,12 @@
+base
+linux
+linux-firmware
+linux-headers
+networkmanager
+sudo
+vim
+git
+man-db
+man-pages
+texinfo
+bash-completion

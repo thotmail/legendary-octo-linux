@@ -1,0 +1,12 @@
+base-devel
+cmake
+ninja
+make
+gcc
+clang
+python
+python-pip
+nodejs
+npm
+shellcheck
+shfmt

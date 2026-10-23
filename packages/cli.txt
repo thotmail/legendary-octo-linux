@@ -1,0 +1,14 @@
+curl
+wget
+rsync
+ripgrep
+fd
+fzf
+jq
+tree
+unzip
+zip
+less
+htop
+fastfetch
+zsh
